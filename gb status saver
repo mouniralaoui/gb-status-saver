@@ -1,1 +1,26 @@
+{ "ADS":
+    {
+  
+     
+    
+        
+      "banner_type":"admob",
+      "inter_type":"admob",
+      "native_type":"admob",
+       
+
+      "ironsource_id":"1896f3d85",
+      "unity_id":"5149029",
+     
+
+     "banner_id":"ca-app-pub-7901917771800521/8431144460",
+      "interstitial_id":"ca-app-pub-7901917771800521/7118062792",
+      "native_id":"ca-app-pub-7901917771800521/1039739601"
+        
+        
+   
+  
+    }
+ 
+  }
 
